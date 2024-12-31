@@ -40,7 +40,7 @@ const Header = () => {
           >
             Home
           </Nav.Link>
-          <Nav.Link
+          {/* <Nav.Link
             href="/login"
             className="text-light fw-bold mx-2"
             style={{ fontSize: '1rem' }}
@@ -53,7 +53,7 @@ const Header = () => {
             style={{ fontSize: '1rem' }}
           >
             Register
-          </Nav.Link>
+          </Nav.Link> */}
 
           {/* Logout Button (only when not on specific routes) */}
           {showLogout && (
