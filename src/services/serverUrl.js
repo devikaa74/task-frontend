@@ -1,2 +1,2 @@
-const SERVER_URL="http://localhost:3000"
+const SERVER_URL="https://task-backend-1-qr0d.onrender.com"
 export default SERVER_URL
